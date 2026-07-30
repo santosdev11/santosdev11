@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=600&lines=Backend+Developer+in+Training;Architect+of+Event-Driven+Bots;The+world+is+yours.)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=600&lines=Backend+Developer+in+Training;Architect+of+Event-Driven+Bots;The+world+is+yours." alt="Typing SVG" />
+  </a>
 </div>
 <br/>
 
@@ -60,7 +62,7 @@ Currently deepening my studies in **Python** (Asynchronous I/O, OOP) and **Java*
 
 ## 📊 Statistics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santosdev11&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=santosdev11&show_icons=true&theme=dark&title_color=FFFFFF&icon_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosdev11&layout=compact&theme=dark&title_color=FFFFFF&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=santosdev11&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" />
