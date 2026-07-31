@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/santosdev11/santosdev11/blob/main/crow.gif?raw=true" width="100%" alt="banner_crows"/>
+  <img src="https://github.com/santosdev11/santosdev11/blob/main/ichigo.gif?raw=true" width="100%" alt="banner_crows"/>
 </div>
 
 <div align="center">
