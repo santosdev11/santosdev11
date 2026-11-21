@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://github.com/santosdev11/santosdev11/blob/main/ichigo.gif?raw=true" width="100%" alt="banner_crows"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Training;Architect+of+Event-Driven+Bots;The+world+is+yours." alt="Typing SVG" />
   </a>
