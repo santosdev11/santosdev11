@@ -2,18 +2,14 @@
 
 <img src="https://github.com/santosdev11/santosdev11/blob/main/santos.gif?raw=true" width="600" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=C77DFF&center=true&vCenter=true&width=520&lines=%3E+booting+santos.exe...;%3E+loading+discord+bots+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;%3E+roblox+studio+still+open+since+3am;%3E+breaking+stuff+to+see+how+it+works" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=%3E+booting+santos.exe...;%3E+loading+discord+bots+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;%3E+roblox+studio+still+open+since+3am;%3E+breaking+stuff+to+see+how+it+works" />
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```console
 santos@br:~$ whoami
-> just a kid from brazil who opens devtools
-  on every site he visits
+> santos. brazil. opens devtools on every
+  site just to see what's under the hood
 
 santos@br:~$ cat about.txt
 > makes roblox games (luau)
@@ -29,13 +25,6 @@ santos@br:~$ sudo make me a senior dev
 > santos is not in the sudoers file.
   this incident will be reported.
 ```
-
-</td>
-<td width="45%" align="center">
-<img src="https://github.com/santosdev11/santosdev11/blob/main/cross.gif?raw=true" width="100%" />
-</td>
-</tr>
-</table>
 
 ---
 
@@ -82,6 +71,6 @@ santos@br:~$ sudo make me a senior dev
 > *"Who looks outside, dreams; who looks inside, awakes."* — Carl Jung
 
 <a href="https://discordapp.com/users/santosdev11"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=santosdev11&style=for-the-badge&color=ff79c6&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=santosdev11&style=for-the-badge&color=39FF14&label=visitors" />
 
 </div>
