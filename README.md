@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/santosdev11/santosdev11/blob/main/santos.gif?raw=true" width="600" />
+<img src="https://github.com/santosdev11/santosdev11/blob/main/donut.gif?raw=true" width="480" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=%3E+booting+santos.exe...;%3E+loading+discord+bots+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D;%3E+roblox+studio+still+open+since+3am;%3E+breaking+stuff+to+see+how+it+works" />
 
@@ -8,8 +8,7 @@
 
 ```console
 santos@br:~$ whoami
-> santos. brazil. opens devtools on every
-  site just to see what's under the hood
+> santos. brazil. roblox games, discord bots, and whatever i'm curious about this week
 
 santos@br:~$ cat about.txt
 > makes roblox games (luau)
@@ -28,13 +27,13 @@ santos@br:~$ sudo make me a senior dev
 
 ---
 
-### <img src="https://img.shields.io/badge/%3E-stack-7aa2f7?style=flat-square&labelColor=0d1117" height="22"/>
+### `> stack`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,lua,mysql,php,html,css,discord,git,github,vscode,linux&theme=dark" />
 </p>
 
-### <img src="https://img.shields.io/badge/%3E-what_im_doing_rn-9ece6a?style=flat-square&labelColor=0d1117" height="22"/>
+### `> what i'm doing rn`
 
 ```diff
 + discord bots with discord.py, async everything
@@ -44,7 +43,7 @@ santos@br:~$ sudo make me a senior dev
 - touching grass
 ```
 
-### <img src="https://img.shields.io/badge/%3E-side_quests-e0af68?style=flat-square&labelColor=0d1117" height="22"/>
+### `> side quests`
 
 ```
 [x] made a bot that actually stayed online for a week
@@ -56,12 +55,10 @@ santos@br:~$ sudo make me a senior dev
 
 ---
 
-### <img src="https://img.shields.io/badge/%3E-activity-f7768e?style=flat-square&labelColor=0d1117" height="22"/>
+### `> activity`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosdev11&theme=tokyonight&hide_border=true&background=0D1117" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santosdev11&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosdev11&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39FF14&sideLabels=AAAAAA&dates=666666&stroke=333333" />
 </div>
 
 ---
